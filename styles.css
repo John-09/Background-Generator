@@ -5,7 +5,7 @@ body{
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-    background: linear-gradient(to right,red,yellow);
+    background: linear-gradient(to right,rgb(204, 203, 166),rgb(106, 22, 200));
 }
 
 
